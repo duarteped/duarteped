@@ -1,7 +1,7 @@
 ##  Olá! Eu sou o Duarte Pedrosa
 
 🎓 Estudante de Engenharia Informática no IPL<br/>
-💻 Apaixonado por programação, tecnologia e resolver problemas<br/>
+💻 Apaixonado por Business Inteligence, base de dados e resolver problemas<br/>
 
 
 # 💻 Tech Stack:
